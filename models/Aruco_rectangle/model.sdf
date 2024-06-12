@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<sdf version='1.7'>
+  <model name='Aruco_rectangle'>
+    <model name='Marker0'>
+      <static>1</static>
+      <link name='link'>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://marker0/meshes/Marker0.dae</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+        </visual>
+      </link>
+      <pose>-10.0075 -10.1426 0 0 -0 0</pose>
+    </model>
+    <model name='Marker1'>
+      <static>1</static>
+      <link name='link'>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://marker1/meshes/Marker1.dae</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+        </visual>
+      </link>
+      <pose>-9.6989 9.82016 0.009895 0 -0 0</pose>
+    </model>
+    <model name='Marker10'>
+      <static>1</static>
+      <link name='link'>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://marker10/meshes/Marker10.dae</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+        </visual>
+      </link>
+      <pose>9.90863 -9.9009 0 0 -0 0</pose>
+    </model>
+    <model name='Marker11'>
+      <static>1</static>
+      <link name='link'>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://marker11/meshes/Marker11.dae</uri>
+              <scale>1 1 1</scale>
+            </mesh>
+          </geometry>
+        </visual>
+      </link>
+      <pose>9.98015 9.90014 0 0 -0 0</pose>
+    </model>
+    <static>0</static>
+    <allow_auto_disable>1</allow_auto_disable>
+  </model>
+</sdf>
