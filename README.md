@@ -15,7 +15,7 @@ Welcome to the Gazebo Model Deployment Repository! This repository contains a co
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/your-username/gazebo-model-deployment-repo.git
+git clone https://github.com/Sandy-exe/Gazebo_models.git
 ```
 
 ## Directory Structure
